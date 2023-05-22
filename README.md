@@ -1,6 +1,6 @@
 # Android Quiz game for the Erasmus+ KA229 Project [“Publicity and Nutrition”](https://publicityandnutrition.wordpress.com/)
 
-##Developed using Java, XML, Google Firebase and Android Studio
+## Developed using Java, XML, Google Firebase and Android Studio
 
 1. Download the Nutriplay.apk installer
 
